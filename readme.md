@@ -1,9 +1,7 @@
 
-![logo](https://github.com/irshad0075/irshad0075/blob/main/banner.png)
+![logo](https://github.com/irshadgujjar/irshadgujjar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Irshad</h1>
 <h3 align="center">I AM CURRENTLY PURSUING MERN STACK DEVELOPMENT.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irshad0075&label=Profile%20views&color=0e75b6&style=flat" alt="irshad0075" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
